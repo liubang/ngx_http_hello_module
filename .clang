@@ -1,0 +1,6 @@
+-I ~/workspace/c/nginx/src/core
+-I ~/workspace/c/nginx/src/http
+-I ~/workspace/c/nginx/src/event
+-I ~/workspace/c/nginx/src/mail
+-I ~/workspace/c/nginx/src/os
+-I ~/workspace/c/nginx/src/stream
